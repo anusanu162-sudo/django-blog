@@ -1,0 +1,90 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="container-fluid">
+
+        <div class="row my-2 align-items-center">
+            <div class="col">
+                <h2>{{ blog_title|upper }}</h2>
+            </div>
+            <div class="col-md-4">
+                <form method="get" action="{% url 'blog:index' %}" class="input-group">
+                    <input type="text" name="q" value="{{ query }}" class="form-control"
+                           placeholder="Search posts..." aria-label="Search">
+                    <button class="btn btn-primary" type="submit">
+                        <i class="bi bi-search"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+
+        <div class="row m-3">
+            {% if page_obj.paginator.count %}
+                {% for post in page_obj %}
+                    <div class="col-4 mb-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <img src="{{ post.image_url }}" class="img-fluid" alt="{{ post.title }}">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <h5 class="card-title">{{ post.title }}</h5>
+                                        <p class="card-text">{{ post.content|truncatechars:50 }}</p>
+                                        <div class="d-flex justify-content-between">
+                                            <a href="{% url 'blog:detail' slug=post.slug %}">Read More</a>
+                                            <span class="text-decoration-none text-dark fw-bold">
+                                                {{ post.category.name }}
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+
+                <div class="col-12 my-3">
+                    {% if page_obj.has_other_pages %}
+                        <nav aria-label="Page navigation">
+                            <ul class="pagination justify-content-center">
+                                {% if page_obj.has_previous %}
+                                    <li class="page-item">
+                                        <a class="page-link" href="?page=1{% if query %}&amp;q={{ query|urlencode }}{% endif %}">First</a>
+                                    </li>
+                                    <li class="page-item">
+                                        <a class="page-link" href="?page={{ page_obj.previous_page_number }}{% if query %}&amp;q={{ query|urlencode }}{% endif %}">Previous</a>
+                                    </li>
+                                {% endif %}
+
+                                <li class="page-item disabled">
+                                    <span class="page-link">
+                                        Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}
+                                    </span>
+                                </li>
+
+                                {% if page_obj.has_next %}
+                                    <li class="page-item">
+                                        <a class="page-link" href="?page={{ page_obj.next_page_number }}{% if query %}&amp;q={{ query|urlencode }}{% endif %}">Next</a>
+                                    </li>
+                                    <li class="page-item">
+                                        <a class="page-link" href="?page={{ page_obj.paginator.num_pages }}{% if query %}&amp;q={{ query|urlencode }}{% endif %}">Last</a>
+                                    </li>
+                                {% endif %}
+                            </ul>
+                        </nav>
+                    {% endif %}
+                </div>
+            {% else %}
+                <p>
+                    {% if query %}
+                        No posts matched &ldquo;{{ query }}&rdquo;.
+                    {% else %}
+                        No posts are available.
+                    {% endif %}
+                </p>
+            {% endif %}
+        </div>
+
+    </div>
+{% endblock %}

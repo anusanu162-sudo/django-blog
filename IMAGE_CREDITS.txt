@@ -1,0 +1,127 @@
+Image credits (all images from Wikimedia Commons)
+============================================================
+
+the-future-of-ai.jpg
+  source : https://commons.wikimedia.org/wiki/File:Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg
+  file   : File:Halodi Robotics' Perception Engineer With a Humanoid Collaborative Robot.jpg
+  author : Nicholas-halodi
+  license: CC BY-SA 4.0
+
+exploring-the-cosmos.jpg
+  source : https://commons.wikimedia.org/wiki/File:A_New_View_of_the_Tarantula_Nebula.jpg
+  file   : File:A New View of the Tarantula Nebula.jpg
+  author : NASA
+  license: Public domain
+
+healthy-living-tips.jpg
+  source : https://commons.wikimedia.org/wiki/File:Fresh_vegetables_and_fruits_at_the_market.jpg
+  file   : File:Fresh vegetables and fruits at the market.jpg
+  author : FranHogan
+  license: CC BY-SA 4.0
+
+the-art-of-coding.jpg
+  source : https://commons.wikimedia.org/wiki/File:Programmer_at_work_(Unsplash).jpg
+  file   : File:Programmer at work (Unsplash).jpg
+  author : Crew crew
+  license: CC0
+
+traveling-on-a-budget.jpg
+  source : https://commons.wikimedia.org/wiki/File:Backpacker_tent_subalpine_mountains_gear_nps_photo_(22305088644).jpg
+  file   : File:Backpacker tent subalpine mountains gear nps photo (22305088644).jpg
+  author : Olympic National Park
+  license: Public domain
+
+the-rise-of-remote-work.jpg
+  source : https://commons.wikimedia.org/wiki/File:Home-office-336377.jpg
+  file   : File:Home-office-336377.jpg
+  author : By Free-Photos from Pixabay
+  license: CC0
+
+climate-change-and-us.jpg
+  source : https://commons.wikimedia.org/wiki/File:Tythegston_Wind_Turbines_(geograph_6183484).jpg
+  file   : File:Tythegston Wind Turbines (geograph 6183484).jpg
+  author : Steve Barnes
+  license: CC BY-SA 2.0
+
+learning-a-new-language.jpg
+  source : https://commons.wikimedia.org/wiki/File:202307_Chinese_books_for_learning_Thai_sold_in_Bangkok.jpg
+  file   : File:202307 Chinese books for learning Thai sold in Bangkok.jpg
+  author : Jonashtand
+  license: CC BY-SA 4.0
+
+the-joy-of-reading.jpg
+  source : https://commons.wikimedia.org/wiki/File:Rammohun_Library_and_Free_Reading_Room_-_Rare_Books_Collection_(1).jpg
+  file   : File:Rammohun Library and Free Reading Room - Rare Books Collection (1).jpg
+  author : Sumitsurai
+  license: CC BY-SA 4.0
+
+fitness-myths-debunked.jpg
+  source : https://commons.wikimedia.org/wiki/File:Attractive_man_lifting_dumbbell_weight_for_exercise_in_fitness_gym.jpg
+  file   : File:Attractive man lifting dumbbell weight for exercise in fitness gym.jpg
+  author : Nenad Stojkovic
+  license: CC BY 2.0
+
+the-world-of-cryptocurrency.jpg
+  source : https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_golden_coin_with_the_symbol.jpg
+  file   : File:Bitcoin BTC golden coin with the symbol.jpg
+  author : Satheesh Sankaran
+  license: CC BY-SA 2.0
+
+sustainable-fashion.jpg
+  source : https://commons.wikimedia.org/wiki/File:Clothing_racks_in_second_hand_shop,_Prague.jpg
+  file   : File:Clothing racks in second hand shop, Prague.jpg
+  author : MAKY.OREL
+  license: CC BY-SA 4.0
+
+space-exploration-milestones.jpg
+  source : https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg
+  file   : File:CRS-9 mission (28348649546).jpg
+  author : SpaceX
+  license: CC0
+
+the-psychology-of-habits.jpg
+  source : https://commons.wikimedia.org/wiki/File:Agenda_et_crayon.jpg
+  file   : File:Agenda et crayon.jpg
+  author : Philippe Alès
+  license: CC BY-SA 4.0
+
+digital-detox-challenge.jpg
+  source : https://commons.wikimedia.org/wiki/File:Clock_and_banana_on_a_table_with_a_smartphone_and_a_plant.jpg
+  file   : File:Clock and banana on a table with a smartphone and a plant.jpg
+  author : Shixart1985
+  license: CC BY 2.0
+
+cooking-with-fresh-herbs.jpg
+  source : https://commons.wikimedia.org/wiki/File:Basil,_parsley,_sage,_and_tarragon_(6a8f383a-cf90-48a8-9dd6-8bb3281e0ef3).JPG
+  file   : File:Basil, parsley, sage, and tarragon (6a8f383a-cf90-48a8-9dd6-8bb3281e0ef3).JPG
+  author : NPS
+  license: Public domain
+
+the-evolution-of-music.jpg
+  source : https://commons.wikimedia.org/wiki/File:Audio-Technica_turntable_playing_coloured_vinyl.jpg
+  file   : File:Audio-Technica turntable playing coloured vinyl.jpg
+  author : M. Johnson
+  license: CC BY 2.0
+
+personal-finance-basics.jpg
+  source : https://commons.wikimedia.org/wiki/File:Colorful-plastic-chicken-piggy-bank-indonesia.jpg
+  file   : File:Colorful-plastic-chicken-piggy-bank-indonesia.jpg
+  author : Undeka 11
+  license: CC BY-SA 4.0
+
+the-power-of-networking.jpg
+  source : https://commons.wikimedia.org/wiki/File:Business_people_discussing_in_the_cafe_(44876336845).jpg
+  file   : File:Business people discussing in the cafe (44876336845).jpg
+  author : Rawpixel Ltd
+  license: CC BY 2.0
+
+about.jpg
+  source : https://commons.wikimedia.org/wiki/File:Writing_in_a_notebook_with_a_feather_pen_while_enjoying_coffee_at_a_desk_surrounded_by_flowers.jpg
+  file   : File:Writing in a notebook with a feather pen while enjoying coffee at a desk surrounded by flowers.jpg
+  author : Shixart1985
+  license: CC BY 2.0
+mindfulness-in-daily-life.jpg
+  source : https://commons.wikimedia.org/wiki/File:Taiwanese_young_woman_doing_meditation_in_Gaomei_Wetlands.jpg
+  file   : File:Taiwanese young woman doing meditation in Gaomei Wetlands.jpg
+  author : LiCheng Shih
+  license: CC BY 2.0
